@@ -44,7 +44,7 @@ if load_dotenv:
     load_dotenv()
 
 # =========================================================
-# APP INIT
+# APP INITIALIZATION
 # =========================================================
 
 app = FastAPI(title="Real Estate Signal Stack")
